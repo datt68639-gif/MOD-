@@ -7,6 +7,7 @@
 		"cost": 160,
 		"replaces": "The Great Library",
 		"uniqueTo": "Đại Việt",	
+		"requiredTech": "Writing"
 	},
 	{
 		"name": "Kinh Thành Thăng Long",
@@ -17,5 +18,6 @@
 		"cost": 350,
 		"replaces": "Angkor Wat",
 		"uniqueTo": "Đại Việt",
+		"requiredTech": "Education"
 	}
 ]
