@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Quốc Tự Giám",
+		"isNationalWonder": true,
+		"faith": 2,
+		"culture": 3,
+    "science":5,
+		"cost": 160,
+		"replaces": "The Great Library",
+		"uniqueTo": "Đại Việt",
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Kinh Thành Thăng Long",
+		"isNationalWonder": true,
+		"faith": 2,
+    "happiness": 2,
+		"culture": 3,
+    "gold":3,
+		"cost": 350,
+		"replaces": "Angkor Wat",
+		"uniqueTo": "Đại Việt",
+		"uniques": ["Indicates the capital city"]
+	}
+]
