@@ -1,7 +1,6 @@
 [
 	{
 		"name": "Quốc Tự Giám",
-		"isNationalWonder": true,
 		"faith": 2,
 		"culture": 3,
     "science":5,
@@ -11,7 +10,6 @@
 	},
 	{
 		"name": "Kinh Thành Thăng Long",
-		"isNationalWonder": true,
 		"faith": 2,
     "happiness": 2,
 		"culture": 3,
