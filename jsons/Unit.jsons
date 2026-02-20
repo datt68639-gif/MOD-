@@ -15,4 +15,18 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	},
+   {
+		"name": "Lính Súng Giao Chỉ",
+		"unitType": "Ranged Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Đại Việt ",
+		"movement": 3,
+		"strength": 18,
+		"rangedStrength": 24,
+		"cost": 240,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Rifleman",
+		"attackSound": "Gun"
+	},
 ]
