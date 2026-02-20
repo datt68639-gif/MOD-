@@ -7,8 +7,7 @@
     "science":5,
 		"cost": 160,
 		"replaces": "The Great Library",
-		"uniqueTo": "Đại Việt",
-		"uniques": ["Indicates the capital city"]
+		"uniqueTo": "Đại Việt",	
 	},
 	{
 		"name": "Kinh Thành Thăng Long",
@@ -20,6 +19,5 @@
 		"cost": 350,
 		"replaces": "Angkor Wat",
 		"uniqueTo": "Đại Việt",
-		"uniques": ["Indicates the capital city"]
 	}
 ]
