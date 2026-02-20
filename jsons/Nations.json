@@ -1,1 +1,35 @@
+[
+	{
+		"name": "Đại Việt",
+		"leaderName": "Trần Quốc Tuấn",
+		"adjective": ["Vie"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hoà bình là do ta định",
+		"startIntroPart2": "Hãy tôn trọng chúng tôi!",
+		
+		"declaringWar": "Ngươi tận số rồi!",
+		"attacked": "Giết",
+		"defeated": "Ngươi sẽ phải trả giá ",
+		"introduction": "Ngàn Năm tái khởi",
+		
+		"neutralHello": "Can we help you?",
+		"neutralLetsHearIt": ["What's up?","Sup?","What do you want?"],
+		"neutralNo": ["Yuck.","Ew!","Fuck off."],
+		"neutralYes": ["Lovely.","Please.","Well-done."],
 
+		"hateHello": "Ew, what do you want?",
+		"hateLetsHearIt": ["Speak!","What do you want?","Ughh."],
+		"hateNo": ["We refuse.!","We wont submit.","You can fuck right off."],
+		"hateYes": ["sure.","Okay.","..."],
+		
+		"afterPeace": "Perfect, prepare for the next war, we will be back stronger.",
+		"tradeRequest": "We have this trade offer for you.",
+
+		"outerColor": [255, 0, 0],
+		"innerColor": [250, 238, 2],
+		"uniqueName": "Royal",
+		"cities": ["Thừa Thiên Huế","Gia Định", "Thăng Long","Thanh Hoá"]
+	}
+]
